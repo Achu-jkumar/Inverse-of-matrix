@@ -39,3 +39,4 @@ print(result)
 ## OUTPUT:
 ![Inverse](./Inverse.png)
 ## RESULT:
+The inverse of a given matrix has been successfully fgenerated using numpy.
